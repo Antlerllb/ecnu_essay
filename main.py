@@ -3,31 +3,23 @@ import os
 import torch
 import json
 import argparse
+
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import EarlyStopping, ModelCheckpoint
 from pytorch_lightning.loggers import WandbLogger, TensorBoardLogger
 # import wandb
 from transformers import BertTokenizer, GPT2LMHeadModel
 
-
-# 添加src目录
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))   
-# sys.path.append(os.path.dirname(BASE_DIR))              # 将src目录添加到环境
-# print("BASE_DIR:",BASE_DIR)
-# sys.path.append('/home/xinshu/programs/small_lion/inner_sent')
-# from model import MyModel, MyPredictor
+import utils
 from model import CorrectionPredictor, IdentificationPredictor
 from model import IdentificationModel, CorrectionModel
 
 
-import utils
-
 utils.set_random_seed(42)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 os.environ["TOKENIZERS_PARALLELISM"] = "True"
 # os.environ["CUDA_VISIBLE_DEVICES"] = "3"
-
 DATA_DIR = './datas/'
-
 # wandb.init(project='course_sicksent')
 
 def gen_args():
@@ -77,9 +69,7 @@ def gen_args():
     parser.add_argument("--test_ckpt_name",  type=str, default="small_lion_epoch=44_val_f1=77.9.ckpt", help="ckpt name for test")
     parser.add_argument("--external_predict", type=utils.str2bool, default=False, help="external predict")
 
-
     # 与correction评测相关的参数
-
     parser.add_argument("-d", "--device", type=int, help="The ID of GPU", default=0)
     parser.add_argument("-w", "--worker_num", type=int, help="The number of workers", default=16)
     parser.add_argument("-m", "--merge", help="Whether merge continuous replacement/deletion/insertion", action="store_true")
@@ -136,11 +126,9 @@ def gen_args():
         type=int)
 
     args = parser.parse_args()
-
     return args
 
 if __name__ == "__main__":
-    
     args = gen_args()
 
     print('--------config----------')
