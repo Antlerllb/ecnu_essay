@@ -1,0 +1,3612 @@
+[
+  {
+    "sent_id": 1035,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "昨天，来宾到我校参观，老师让我当小导游，我感到十分紧张。",
+    "sc_sent": "昨天，来宾到我校参观，老师让我当小导游，我感到十分紧张。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1036,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "首先，我带来宾到小型足球场参观。",
+    "sc_sent": "首先，我带来宾到小型足球场参观。",
+    "fine_grained_error_type": [
+      "缺字漏字"
+    ],
+    "revised_sent": "首先，我帶賓客到小型足球場參觀。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1037,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "那里有两个五人足球场的龙门，龙门前是小排球场，走到小排球场后面是花圃。",
+    "sc_sent": "那里有两个五人足球场的龙门，龙门前是小排球场，走到小排球场后面是花圃。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "那里有两个五人足球场，球场两端是龙门，龙门前是小排球场，走到小排球场后面是花圃。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1038,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "来宾说：「这些花卉真漂亮！」",
+    "sc_sent": "来宾说：「这些花卉真漂亮！」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1039,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "我说：「那当然啦！",
+    "sc_sent": "我说：「那当然啦！",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "我说：「那当然啦！」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1040,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "这些花卉都是XX周三活动的环保绿化小组和校工叔叔种植出来的。」",
+    "sc_sent": "这些花卉都是XX周三活动的环保绿化小组和校工叔叔种植出来的。」",
+    "fine_grained_error_type": [
+      "错用标点",
+      "其他成分多余"
+    ],
+    "revised_sent": "这些花卉都是周三活动的环保绿化小组和校工叔叔种植出来的。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1041,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "来宾们争相在花卉前拍下美照以作日后留念。",
+    "sc_sent": "来宾们争相在花卉前拍下美照以作日后留念。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1042,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "然后，我就带他们到图书馆参观。",
+    "sc_sent": "然后，我就带他们到图书馆参观。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1043,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "郭老师把所有不同种类的图书全部分类起来，有小说、故事书和音乐图书等。",
+    "sc_sent": "郭老师把所有不同种类的图书全部分类起来，有小说、故事书和音乐图书等。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "郭老师把所有不同种类的图书全部分类好，有小说、故事書和音樂圖書等。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1044,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "那里有两张像浴缸的椅子，我经常到这里借书和还书呢，在这里阅读真的十分写意呢！",
+    "sc_sent": "那里有两张像浴缸的椅子，我经常到这里借书和还书呢，在这里阅读真的十分写意呢！",
+    "fine_grained_error_type": [
+      "虚词多余"
+    ],
+    "revised_sent": "那里有两张像浴缸的椅子，我经常到这里借书和还书，在这里阅读真的十分写意！",
+    "remark": ""
+  },
+  {
+    "sent_id": 1045,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "到了电脑室，我向来宾说：「这里有一先进的设备，就是3D打印机，这是一可以印出3D物品的打印机呢。」",
+    "sc_sent": "到了电脑室，我向来宾说：「这里有一先进的设备，就是3D打印机，这是一可以印出3D物品的打印机呢。」",
+    "fine_grained_error_type": [],
+    "revised_sent": "到了電腦室，我向來賓說：「這裡有一種先進的設備，就是3D打印機，這是一種可以印出3D物品的打印機呢。」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1046,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "来宾说：「你可示范一下吗？」",
+    "sc_sent": "来宾说：「你可示范一下吗？」",
+    "fine_grained_error_type": [
+      "缺字漏字"
+    ],
+    "revised_sent": "来宾说：「你可以示范一下吗？」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1047,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "听到来宾说的话后，我立即请在电脑室的黄老师示范一下。",
+    "sc_sent": "听到来宾说的话后，我立即请在电脑室的黄老师示范一下。",
+    "fine_grained_error_type": [
+      "虚词多余"
+    ],
+    "revised_sent": "听到来宾说的话后，我立即请电脑室的黄老师示范一下。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1048,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "她把一张有一个正方形的纸放进打印机里，打印机开始印刷了，然后，「唔」一声打印机印出来了。",
+    "sc_sent": "她把一张有一个正方形的纸放进打印机里，打印机开始印刷了，然后，「唔」一声打印机印出来了。",
+    "fine_grained_error_type": [
+      "虚词多余",
+      "主语不明"
+    ],
+    "revised_sent": "她把一张正方形的纸放进打印机里，打印机开始印刷了，然后，打印机「唔」得一声，纸被印出来了。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1049,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "原本平面的正方形变成立体了。",
+    "sc_sent": "原本平面的正方形变成立体了。",
+    "fine_grained_error_type": [
+      "其他搭配不当"
+    ],
+    "revised_sent": "原本平面的正方形变成立体的。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1050,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "来宾说：「这部打印机真的可以印出3D物体，太神奇了！」",
+    "sc_sent": "来宾说：「这部打印机真的可以印出3D物体，太神奇了！」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1051,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "我向他们说：「每次上电脑课，我就会到这里上课呢！」",
+    "sc_sent": "我向他们说：「每次上电脑课，我就会到这里上课呢！」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1052,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "到了中午，这个活动终于结束了。",
+    "sc_sent": "到了中午，这个活动终于结束了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1053,
+    "essay_id": 1,
+    "grade": 3,
+    "sent": "我虽然很累，但是我觉得我可以带来宾参观我的学校，这件事真的令我十分难忘，希望下次可以再带来宾到不同地方参观。",
+    "sc_sent": "我虽然很累，但是我觉得我可以带来宾参观我的学校，这件事真的令我十分难忘，希望下次可以再带来宾到不同地方参观。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1054,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "现代社会学历尤为重要，而出外旅游，也能增广见闻。",
+    "sc_sent": "现代社会学历尤为重要，而出外旅游，也能增广见闻。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "现代社会学历尤为重要，而外出旅游，也能增广见闻。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1055,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "我不太同意「读万卷书，不如行万里路」这句话。",
+    "sc_sent": "我不太同意「读万卷书，不如行万里路」这句话。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1056,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "我认为除了要吸取课本上的知识，还要多到各地旅行，开拓视野，以增广见闻。",
+    "sc_sent": "我认为除了要吸取课本上的知识，还要多到各地旅行，开拓视野，以增广见闻。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1057,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "行万里路十分重要，书中的知识是别人实践和思考得来的成果，也是别人的片面之词。",
+    "sc_sent": "行万里路十分重要，书中的知识是别人实践和思考得来的成果，也是别人的片面之词。",
+    "fine_grained_error_type": [
+      "虚词多余",
+      "其他成分残缺"
+    ],
+    "revised_sent": "行万里路十分重要，书中的知识是别人实践和思考的成果，但也是别人的片面之词。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1058,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "我们学习知识除了在书本上理解意思和学习知识，还要通过实践来深化概念和记忆，才能真正透彻地理解和学习。",
+    "sc_sent": "我们学习知识除了在书本上理解意思和学习知识，还要通过实践来深化概念和记忆，才能真正透彻地理解和学习。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "我们学习知识除了在书本上理解意思，还要通过实践来深化概念和记忆，才能真正透彻地理解和掌握。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1059,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "行万里路可以学到从书本上学不到的知识，但是凡事有利必有弊。",
+    "sc_sent": "行万里路可以学到从书本上学不到的知识，但是凡事有利必有弊。",
+    "fine_grained_error_type": [
+      "虚词多余"
+    ],
+    "revised_sent": "行万里路可以學到從書本上學不到的知識，但是凡事有利必有弊。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1060,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "行万里路需要耗费大量的精力和金钱，甚至是很多的时间。",
+    "sc_sent": "行万里路需要耗费大量的精力和金钱，甚至是很多的时间。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1061,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "人生匆匆不过百年，也没有那么多的时间浪费。",
+    "sc_sent": "人生匆匆不过百年，也没有那么多的时间浪费。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1062,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "但读万卷书成本就较低，我们可以透过阅读在短时间内获取知识，足不出户也能知天下事。",
+    "sc_sent": "但读万卷书成本就较低，我们可以透过阅读在短时间内获取知识，足不出户也能知天下事。",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "但读万卷书成本就较低，我们可以通过阅读在短时间内获取知识，足不出户也能知天下事。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1063,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "用去行万里路获取知识一年的时间，可能还不如花几个小时在书本或网上获得知识。",
+    "sc_sent": "用去行万里路获取知识一年的时间，可能还不如花几个小时在书本或网上获得知识。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "用一年的时间去行万里路获取知识，可能还不如花几个小时在书本或网上获得知识。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1064,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "而且行万里路所学到的知识往往不够书上的知识详细和清晰。",
+    "sc_sent": "而且行万里路所学到的知识往往不够书上的知识详细和清晰。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "而且行万里路所学到的知识，往往不如书上的知识详细和清晰。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1065,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "行万里路得到的知识也未必是真实准确，所谓：「眼见不一定为实」。",
+    "sc_sent": "行万里路得到的知识也未必是真实准确，所谓：「眼见不一定为实」。",
+    "fine_grained_error_type": [
+      "宾语残缺"
+    ],
+    "revised_sent": "行万里路得到的知识也未必是真实准确的，所谓：「眼见不一定为实」。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1066,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "还有一些知识是行万里路无法获取的，例如：人体构造、历史、细胞的结构等等。",
+    "sc_sent": "还有一些知识是行万里路无法获取的，例如：人体构造、历史、细胞的结构等等。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1067,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "在书本上却可以轻易获取各种知识，还不用耗费金钱和时间，所以读书可谓是获取知识的捷径。",
+    "sc_sent": "在书本上却可以轻易获取各种知识，还不用耗费金钱和时间，所以读书可谓是获取知识的捷径。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1068,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "下学期六年级即将毕业，在现今社会却更认可读书，行万里路只是一种娱乐，学历越高便可获得更多机会，上学读书也成了每个人的必经阶段。",
+    "sc_sent": "下学期六年级即将毕业，在现今社会却更认可读书，行万里路只是一种娱乐，学历越高便可获得更多机会，上学读书也成了每个人的必经阶段。",
+    "fine_grained_error_type": [
+      "主语不明"
+    ],
+    "revised_sent": "下学期六年级学生即将毕业，在现今社会人们却更认可读书，行万里路只是一种娱乐，学历越高便可获得更多机会，上学读书也成了每个人的必经阶段。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1069,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "可见读书对现今社会影响之大。",
+    "sc_sent": "可见读书对现今社会影响之大。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1070,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "总括而言，我认为「读万卷书」和「行万里路」都重要。",
+    "sc_sent": "总括而言，我认为「读万卷书」和「行万里路」都重要。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1071,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "我不应只在书本上或经验上获取知识，这样不能真正学习并学以致用。",
+    "sc_sent": "我不应只在书本上或经验上获取知识，这样不能真正学习并学以致用。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "我不应只在书本上或经验上获取知识，这样不能真正学以致用。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1072,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "清代钱泳的《履园丛话》中说到：「读万卷书，行万里路，二者不可偏废。」",
+    "sc_sent": "清代钱泳的《履园丛话》中说到：「读万卷书，行万里路，二者不可偏废。」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1073,
+    "essay_id": 2,
+    "grade": 6,
+    "sent": "所以我应该读万卷书，亦行万里路。",
+    "sc_sent": "所以我应该读万卷书，亦行万里路。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1074,
+    "essay_id": 3,
+    "grade": 5,
+    "sent": "看电视已成为现代人生活的一部份，很多人的家里都有电视机，大家可以随时随地看电视。",
+    "sc_sent": "看电视已成为现代人生活的一部份，很多人的家里都有电视机，大家可以随时随地看电视。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1075,
+    "essay_id": 547,
+    "grade": 5,
+    "sent": "不少人天天花很多時間看電視，以致身體出現不少毛病。",
+    "sc_sent": "不少人天天花很多时间看电视，以致身体出现不少毛病。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "不少人天天花很多時間看電視，导致身體出現不少毛病。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1076,
+    "essay_id": 3,
+    "grade": 5,
+    "sent": "长时间紧盯屏幕会患上近视，长时间坐在沙发上看电视、缺乏做运动，亦容易令儿童出现肥胖的情况。",
+    "sc_sent": "长时间紧盯屏幕会患上近视，长时间坐在沙发上看电视、缺乏做运动，亦容易令儿童出现肥胖的情况。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "长时间紧盯屏幕会近视，长时间坐在沙发上看电视、缺乏运动，亦容易令儿童出现肥胖的情况。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1077,
+    "essay_id": 3,
+    "grade": 5,
+    "sent": "所以多看电视带来不少健康的问题。",
+    "sc_sent": "所以多看电视带来不少健康的问题。",
+    "fine_grained_error_type": [
+      "其他搭配不当"
+    ],
+    "revised_sent": "所以多看电视带来不少健康问题。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1078,
+    "essay_id": 3,
+    "grade": 5,
+    "sent": "其次，电视节目中不当的行为会影响我们的价值观。",
+    "sc_sent": "其次，电视节目中不当的行为会影响我们的价值观。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1079,
+    "essay_id": 3,
+    "grade": 5,
+    "sent": "负面的资讯和有害的讯息可能导致儿童建立错误价值观，例如暴力行为长期存在。",
+    "sc_sent": "负面的资讯和有害的讯息可能导致儿童建立错误价值观，例如暴力行为长期存在。",
+    "fine_grained_error_type": [
+      "谓语残缺"
+    ],
+    "revised_sent": "负面的资讯和有害的讯息可能导致儿童建立错误的价值观，例如认为暴力行为长期存在。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1080,
+    "essay_id": 3,
+    "grade": 5,
+    "sent": "此外，儿童可能过度依赖电视节目提供的娱乐和刺激，影响他们建立健康社交。",
+    "sc_sent": "此外，儿童可能过度依赖电视节目提供的娱乐和刺激，影响他们建立健康社交。",
+    "fine_grained_error_type": [
+      "其他成分残缺"
+    ],
+    "revised_sent": "此外，儿童可能过度依赖电视节目提供的娱乐和刺激，影响他们建立健康的社交。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1081,
+    "essay_id": 3,
+    "grade": 5,
+    "sent": "如果能采取平衡的方法，只要不妨碍健康、日常的学习且有时间限制，就可以选择适当的电视节目观看，从而享受看电视带来的乐趣。",
+    "sc_sent": "如果能采取平衡的方法，只要不妨碍健康、日常的学习且有时间限制，就可以选择适当的电视节目观看，从而享受看电视带来的乐趣。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "如果能采取平衡的方法，只要不妨碍健康、日常学习且有时间限制，就可以选择适当的电视节目观看，从而享受看电视带来的乐趣。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1082,
+    "essay_id": 3,
+    "grade": 5,
+    "sent": "大家千万不要做看电视的奴隶。",
+    "sc_sent": "大家千万不要做看电视的奴隶。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "大家千万不要做被电视奴役的人。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1083,
+    "essay_id": 3,
+    "grade": 5,
+    "sent": "总之，看电视是有利有弊的，我们需要平衡好，避免被其弊端影响，才能发挥其有益的一面。",
+    "sc_sent": "总之，看电视是有利有弊的，我们需要平衡好，避免被其弊端影响，才能发挥其有益的一面。",
+    "fine_grained_error_type": [
+      "宾语残缺"
+    ],
+    "revised_sent": "总之，看电视是有利有弊的，我们需要平衡好利弊，避免被其弊端影响，才能发挥其有益的一面。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1084,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "每当我看见我书桌上那支被摔成两段的铅笔，不久前的往事便再次在我脑海中浮现出来···",
+    "sc_sent": "每当我看见我书桌上那支被摔成两段的铅笔，不久前的往事便再次在我脑海中浮现出来···",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "每当我看见我书桌上那支被摔成两段的铅笔，往事便再次在我脑海中浮现出来。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1085,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "几个月前，距离期末考试还有几天，所以大家都在上课时很专心。",
+    "sc_sent": "几个月前，距离期末考试还有几天，所以大家都在上课时很专心。",
+    "fine_grained_error_type": [
+      "其他成分多余",
+      "语序不当"
+    ],
+    "revised_sent": "几个月前，距离期末考试还有几天，大家上课时都很专心。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1086,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "那时的我感到很大压力，因为要应付考试根本没办法抽出时间休息，正感到疲倦时，「汪汪」的声音使我分了神。",
+    "sc_sent": "那时的我感到很大压力，因为要应付考试根本没办法抽出时间休息，正感到疲倦时，「汪汪」的声音使我分了神。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1087,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "但我认为这只是那些贪玩的同学的恶作剧，所以并没有在意。",
+    "sc_sent": "但我认为这只是那些贪玩的同学的恶作剧，所以并没有在意。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1088,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "突然，一只浑身雪白的小狗跳上了我的书桌，把书桌上的东西全推倒了！",
+    "sc_sent": "突然，一只浑身雪白的小狗跳上了我的书桌，把书桌上的东西全推倒了！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1089,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "有的人在座位上大叫大嚷，有的人吓得离开座位，还有的人跑到老师身后去。",
+    "sc_sent": "有的人在座位上大叫大嚷，有的人吓得离开座位，还有的人跑到老师身后去。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1090,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "我被眼前的景象吓呆了，我坐在椅子上，不知道如何是好。",
+    "sc_sent": "我被眼前的景象吓呆了，我坐在椅子上，不知道如何是好。",
+    "fine_grained_error_type": [
+      "主语多余"
+    ],
+    "revised_sent": "我被眼前的景象吓呆了，坐在椅子上，不知道如何是好。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1091,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "我看着眼前的小狗，对它又爱又恨。",
+    "sc_sent": "我看着眼前的小狗，对它又爱又恨。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1092,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "幸好老师让同学们冷静下来，返回座位，这才使教室再次回复宁静。",
+    "sc_sent": "幸好老师让同学们冷静下来，返回座位，这才使教室再次回复宁静。",
+    "fine_grained_error_type": [
+      "错用标点",
+      "其他搭配不当"
+    ],
+    "revised_sent": "幸好老师让同学们冷静下来返回座位，这才使教室再次恢复宁静。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1093,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "老师在通电话后说：「小狗是今天为我们讲座的讲者带来的，他一会儿就会过来接回小狗了。」",
+    "sc_sent": "老师在通电话后说：「小狗是今天为我们讲座的讲者带来的，他一会儿就会过来接回小狗了。」",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "老师在通电话后说：「小狗是今天讲座的讲者带来的，他一会儿就会过来接回小狗了。」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1094,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "听后，我才松了一口气。",
+    "sc_sent": "听后，我才松了一口气。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1095,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "突然，我才想起自己的文具全被小狗打翻在地上，我连忙去捡。",
+    "sc_sent": "突然，我才想起自己的文具全被小狗打翻在地上，我连忙去捡。",
+    "fine_grained_error_type": [
+      "主语多余"
+    ],
+    "revised_sent": "突然，我才想起自己的文具全被小狗打翻在地上，连忙去捡。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1096,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "我这才发现自己的铅笔已摔成了两截。",
+    "sc_sent": "我这才发现自己的铅笔已摔成了两截。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1097,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "这时我就像被箭射穿身体似的，十分心痛。",
+    "sc_sent": "这时我就像被箭射穿身体似的，十分心痛。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1098,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "可是，当我看见了小狗那球一般的身体以后，我又心软了。",
+    "sc_sent": "可是，当我看见了小狗那球一般的身体以后，我又心软了。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "可是，当我看见了小狗那球一般的身体以后就心软了。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1099,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "我心想：它这么可爱，我又怎可以生气呢？",
+    "sc_sent": "我心想：它这么可爱，我又怎可以生气呢？",
+    "fine_grained_error_type": [
+      "缺字漏字"
+    ],
+    "revised_sent": "我心想：它这么可爱，我又怎么可以生气呢？",
+    "remark": ""
+  },
+  {
+    "sent_id": 1100,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "于是，我便抱起小狗，把它交给老师。",
+    "sc_sent": "于是，我便抱起小狗，把它交给老师。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1101,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "可是小狗就像失控了，到处乱跑。",
+    "sc_sent": "可是小狗就像失控了，到处乱跑。",
+    "fine_grained_error_type": [
+      "其他成分残缺"
+    ],
+    "revised_sent": "可是小狗就像失控了一样，到处乱跑。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1102,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "在漫长的等待后，它的主人终于接回它了，也总算带走了这位不速之客。",
+    "sc_sent": "在漫长的等待后，它的主人终于接回它了，也总算带走了这位不速之客。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "在漫长的等待后，它的主人终于接回它了，总算带走了这位不速之客。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1103,
+    "essay_id": 4,
+    "grade": 5,
+    "sent": "这件事使我感到又气又喜，希望下次不会再有个不速之客到我们的教室捣乱了。",
+    "sc_sent": "这件事使我感到又气又喜，希望下次不会再有个不速之客到我们的教室捣乱了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1104,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "昨天，老师请我当小导游，我感到十分紧张，担心自己能否顺利完成这个任务，因为这是我第一次当小导游啊。",
+    "sc_sent": "昨天，老师请我当小导游，我感到十分紧张，担心自己能否顺利完成这个任务，因为这是我第一次当小导游啊。",
+    "fine_grained_error_type": [
+      "虚词多余"
+    ],
+    "revised_sent": "昨天，老师请我当小导游，我感到十分紧张，担心自己能否顺利完成这个任务，因为这是我第一次当小导游。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1105,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "来宾一到，我就热烈地欢迎他们。",
+    "sc_sent": "来宾一到，我就热烈地欢迎他们。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1106,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "首先，我带他们走到地下的园圃，园圃内有很多色彩缤纷的花草树木，十分漂亮，时常有蝴蝶在园圃里嬉戏，令那里更显得生趣盎然。",
+    "sc_sent": "首先，我带他们走到地下的园圃，园圃内有很多色彩缤纷的花草树木，十分漂亮，时常有蝴蝶在园圃里嬉戏，令那里更显得生趣盎然。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1107,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "接着，我们到了一个所有同学都感到自豪的地方——图书馆。",
+    "sc_sent": "接着，我们到了一个所有同学都感到自豪的地方——图书馆。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1108,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "在图书馆里，来宾都呆住了，因为图书馆有数之不尽的图书，有小说、漫画、百科全书等，真是应有尽有啊！",
+    "sc_sent": "在图书馆里，来宾都呆住了，因为图书馆有数之不尽的图书，有小说、漫画、百科全书等，真是应有尽有啊！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1109,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "最后，我们来到了视艺室。",
+    "sc_sent": "最后，我们来到了视艺室。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1110,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "那里有不同年级的「小小艺术家」的佳作，还有世界各地著名画家的作品，彷如一个艺术展览厅！",
+    "sc_sent": "那里有不同年级的「小小艺术家」的佳作，还有世界各地著名画家的作品，彷如一个艺术展览厅！",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "那里有不同年级的「小小艺术家」的佳作，还有世界各地著名画家的作品，宛如一个艺术展览厅！",
+    "remark": ""
+  },
+  {
+    "sent_id": 1111,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "到了离开学校的时候，那些来宾对学校赞不绝口。",
+    "sc_sent": "到了离开学校的时候，那些来宾对学校赞不绝口。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1112,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "来宾更表示希望他们的孩子能加入这个大家庭，在这个美好的校园学习。",
+    "sc_sent": "来宾更表示希望他们的孩子能加入这个大家庭，在这个美好的校园学习。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1113,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "这次当小导游，我感到十分难忘，原来我很幸福，能在那么理想的校园学习。",
+    "sc_sent": "这次当小导游，我感到十分难忘，原来我很幸福，能在那么理想的校园学习。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1114,
+    "essay_id": 5,
+    "grade": 3,
+    "sent": "希望下次可以再当小导游，向来宾介绍我校更多不同的设施。",
+    "sc_sent": "希望下次可以再当小导游，向来宾介绍我校更多不同的设施。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1115,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "从我出生到现在，一个陪伴我成长且影响我最深的人，是谁呢？",
+    "sc_sent": "从我出生到现在，一个陪伴我成长且影响我最深的人，是谁呢？",
+    "fine_grained_error_type": [
+      "谓语残缺"
+    ],
+    "revised_sent": "从我出生到现在，有一个陪伴我成长且影响我最深的人，是谁呢？",
+    "remark": ""
+  },
+  {
+    "sent_id": 1116,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "她就是我最亲爱的妈妈。",
+    "sc_sent": "她就是我最亲爱的妈妈。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1117,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "妈妈有著一副瓜子脸，戴著一副黑色的眼镜，她有一头长长又浓密的黑色头发，看起来十分亲切。",
+    "sc_sent": "妈妈有著一副瓜子脸，戴著一副黑色的眼镜，她有一头长长又浓密的黑色头发，看起来十分亲切。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1118,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "妈妈并不是一位家庭主妇，她是一位老师。",
+    "sc_sent": "妈妈并不是一位家庭主妇，她是一位老师。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1119,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "就是有一次，我和妈妈在乘巴士，然后有一位老婆婆拿著一袋沉甸甸的袋子踏上巴士。",
+    "sc_sent": "就是有一次，我和妈妈在乘巴士，然后有一位老婆婆拿著一袋沉甸甸的袋子踏上巴士。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "就是有一次，我和妈妈在乘巴士，然后有一位老婆婆拿著一袋沉甸甸的物件踏上巴士。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1120,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "妈妈看见后，立即对著坐在座位上的我说：「你有没有看见那位老婆婆拿著这么重的东西？",
+    "sc_sent": "妈妈看见后，立即对著坐在座位上的我说：「你有没有看见那位老婆婆拿著这么重的东西？",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "妈妈看见后，立即对著坐在座位上的我说：「你有没有看见那位老婆婆拿著这么重的东西？」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1121,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "你快让座给她吧！」",
+    "sc_sent": "你快让座给她吧！」",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "你快让座给她吧！",
+    "remark": ""
+  },
+  {
+    "sent_id": 1122,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "于是我站起来，让座给老婆婆，她马上连声地感谢我。",
+    "sc_sent": "于是我站起来，让座给老婆婆，她马上连声地感谢我。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1123,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "妈妈笑瞇瞇地看著我回答：「女儿，我们要做个善良和有礼貌的人。",
+    "sc_sent": "妈妈笑瞇瞇地看著我回答：「女儿，我们要做个善良和有礼貌的人。",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "妈妈笑瞇瞇地看著我回答：「女儿，我們要做個善良和有禮貌的人。」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1124,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "你知道每次妈妈让座给有需要的人士时，他们会感到快乐，而妈妈也会，这就是『助人为快乐之本』。」",
+    "sc_sent": "你知道每次妈妈让座给有需要的人士时，他们会感到快乐，而妈妈也会，这就是『助人为快乐之本』。」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1125,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "我听完妈妈的话后，决心从今以后做个善良和有礼貌的孩子。",
+    "sc_sent": "我听完妈妈的话后，决心从今以后做个善良和有礼貌的孩子。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1126,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "事例可写得简短一点，但须多举别的事例，才能强化主题。",
+    "sc_sent": "事例可写得简短一点，但须多举别的事例，才能强化主题。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1127,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "妈妈就是那个影响我最深的人！",
+    "sc_sent": "妈妈就是那个影响我最深的人！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1128,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "她令我知道我要做个善良和有礼貌的人。",
+    "sc_sent": "她令我知道我要做个善良和有礼貌的人。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1129,
+    "essay_id": 6,
+    "grade": 5,
+    "sent": "妈妈，谢谢您！",
+    "sc_sent": "妈妈，谢谢您！",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "妈妈，谢谢您！",
+    "remark": ""
+  },
+  {
+    "sent_id": 1130,
+    "essay_id": 7,
+    "grade": 5,
+    "sent": "我每天都要到学校的小园圃浇水，可是今天不能完成这项任务，因为我的妈妈要外出工作，所以我要在家中照顾妹妹。",
+    "sc_sent": "我每天都要到学校的小园圃浇水，可是今天不能完成这项任务，因为我的妈妈要外出工作，所以我要在家中照顾妹妹。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1131,
+    "essay_id": 934,
+    "grade": 5,
+    "sent": "抱歉，請您另找同學替代我。",
+    "sc_sent": "抱歉，请您另找同学替代我。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1132,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "星期一，我吃完早餐，便怀着既紧张又期待的心情去上学。",
+    "sc_sent": "星期一，我吃完早餐，便怀着既紧张又期待的心情去上学。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1133,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "因为今天是开放日，老师给我的工作是当小导游，我十分期待呢。",
+    "sc_sent": "因为今天是开放日，老师给我的工作是当小导游，我十分期待呢。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1134,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "一到达学校，我便看见来宾怀著兴奋的心情来到学校。",
+    "sc_sent": "一到达学校，我便看见来宾怀著兴奋的心情来到学校。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1135,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "我先带来宾到园圃。",
+    "sc_sent": "我先带来宾到园圃。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1136,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "那里有五彩缤纷的花朵，又有清新的空气。",
+    "sc_sent": "那里有五彩缤纷的花朵，又有清新的空气。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1137,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "我对一位来宾说：「这朵太阳花十分漂亮呢！",
+    "sc_sent": "我对一位来宾说：「这朵太阳花十分漂亮呢！",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "我对一位来宾说：「这朵太阳花十分漂亮呢！」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1138,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "你们也可以拍照啊。」",
+    "sc_sent": "你们也可以拍照啊。」",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "你们也可以拍照啊！",
+    "remark": ""
+  },
+  {
+    "sent_id": 1139,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "来宾一听到可以拍照，便争相和花朵拍照。",
+    "sc_sent": "来宾一听到可以拍照，便争相和花朵拍照。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "来宾一听到可以拍照，便争相和花朵合影。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1140,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "接著，我带来宾去乐室。",
+    "sc_sent": "接著，我带来宾去乐室。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "接著，我帶賓客去樂室。",
+    "remark": "todo"
+  },
+  {
+    "sent_id": 1141,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "这里有钢琴和各种不同的乐器，可供同学们合唱或演奏乐器。",
+    "sc_sent": "这里有钢琴和各种不同的乐器，可供同学们合唱或演奏乐器。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "这里有钢琴和各种不同的乐器，可供同学们演奏或合唱。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1142,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "那天，我以小导游的身份让来宾体验乐器演奏，真的令我十分难忘。",
+    "sc_sent": "那天，我以小导游的身份让来宾体验乐器演奏，真的令我十分难忘。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1143,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "然后，我便带来宾去图书馆。",
+    "sc_sent": "然后，我便带来宾去图书馆。",
+    "fine_grained_error_type": [
+      "谓语残缺"
+    ],
+    "revised_sent": "然后，我便帶賓客去圖書館。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1144,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "这里有很多不同的图书，可以培养同学的阅读兴趣，也可供人查阅不明白的词语。",
+    "sc_sent": "这里有很多不同的图书，可以培养同学的阅读兴趣，也可供人查阅不明白的词语。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "这里有很多不同的图书，可以培养同学的阅读兴趣，也可供人查阅不明白的字词。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1145,
+    "essay_id": 8,
+    "grade": 3,
+    "sent": "今天当小导游的经历真的很有趣，希望下次还能当小导游。",
+    "sc_sent": "今天当小导游的经历真的很有趣，希望下次还能当小导游。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1146,
+    "essay_id": 9,
+    "grade": 5,
+    "sent": "我本来每天都要到学校小园圃浇水，可是我弟弟进了医院，我虽然想完成这件事，但不能了。",
+    "sc_sent": "我本来每天都要到学校小园圃浇水，可是我弟弟进了医院，我虽然想完成这件事，但不能了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1147,
+    "essay_id": 9,
+    "grade": 5,
+    "sent": "我希望您找另一位同学替代我，请您原谅我！",
+    "sc_sent": "我希望您找另一位同学替代我，请您原谅我！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1148,
+    "essay_id": 992,
+    "grade": 5,
+    "sent": "即日下午一時",
+    "sc_sent": "即日下午一时",
+    "fine_grained_error_type": [
+      "缺少标点"
+    ],
+    "revised_sent": "即日下午一时。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1149,
+    "essay_id": 10,
+    "grade": 5,
+    "sent": "当我看见一位已经转校的同学的一张相片时，我不禁想起一年前的一件事。",
+    "sc_sent": "当我看见一位已经转校的同学的一张相片时，我不禁想起一年前的一件事。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1150,
+    "essay_id": 10,
+    "grade": 5,
+    "sent": "一年前，我班的一位好朋友因为要搬家，所以要转换学校，我们知道不久后彼此都不能再在学校见面了。",
+    "sc_sent": "一年前，我班的一位好朋友因为要搬家，所以要转换学校，我们知道不久后彼此都不能再在学校见面了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1151,
+    "essay_id": 10,
+    "grade": 5,
+    "sent": "在他转校的前一天，班主任和同学们打算在课室裹开一个欢送会，要好好举办。",
+    "sc_sent": "在他转校的前一天，班主任和同学们打算在课室裹开一个欢送会，要好好举办。",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "在他转校的前一天，班主任和同学们打算在课室里开一个欢送会，要好好举办。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1152,
+    "essay_id": 10,
+    "grade": 5,
+    "sent": "同学们在课室里准备欢送的物资拿，有人带了食物、有人带了游戏、也有人带了送别卡......",
+    "sc_sent": "同学们在课室里准备欢送的物资拿，有人带了食物、有人带了游戏、也有人带了送别卡......",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "同学们在课室里准备欢送的物资，有人带了食物，有人带了游戏，也有人带了送别卡.......",
+    "remark": ""
+  },
+  {
+    "sent_id": 1153,
+    "essay_id": 10,
+    "grade": 5,
+    "sent": "时间到了，班主任和同学们站在课室的门前等待他出现。",
+    "sc_sent": "时间到了，班主任和同学们站在课室的门前等待他出现。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1154,
+    "essay_id": 10,
+    "grade": 5,
+    "sent": "这一天一切都很美好，但没想到，我当天早上生病了，当我听到医生说我患上了传染性极高的感冒时，我的心像被撕破裂了，这一整 天我都不能再见他一面，跟他拍照和说再见。",
+    "sc_sent": "这一天一切都很美好，但没想到，我当天早上生病了，当我听到医生说我患上了传染性极高的感冒时，我的心像被撕破裂了，这一整 天我都不能再见他一面，跟他拍照和说再见。",
+    "fine_grained_error_type": [
+      "错别字错误",
+      "其他搭配不当"
+    ],
+    "revised_sent": "这一天一切都很美好，但没想到，我当天早上生病了，当我听到医生说我患上了传染性极高的感冒时，我的心像被撕裂了，这一整天我都不能再见他一面，跟他拍照和道别。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1155,
+    "essay_id": 10,
+    "grade": 5,
+    "sent": "我在回忆中回过神来，仍然深深感受到错失了当天跟他拍照道别的机会，是多么的无奈啊！",
+    "sc_sent": "我在回忆中回过神来，仍然深深感受到错失了当天跟他拍照道别的机会，是多么的无奈啊！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1156,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "昨天是学校的开放日，老师请我当小导游，带来宾参观学校。",
+    "sc_sent": "昨天是学校的开放日，老师请我当小导游，带来宾参观学校。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "昨天是學校的開放日，老師請我當小導遊，帶領來賓參觀學校。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1157,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "我在这次经历中，感到获益良多。",
+    "sc_sent": "我在这次经历中，感到获益良多。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1158,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "我到了学校一会儿后，便看到一些带著期待目光的来宾踏进学校。",
+    "sc_sent": "我到了学校一会儿后，便看到一些带著期待目光的来宾踏进学校。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1159,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "我跟他们自我介绍后，便首先带著他们前往一楼的礼堂。",
+    "sc_sent": "我跟他们自我介绍后，便首先带著他们前往一楼的礼堂。",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "我跟他们自我介绍后，便首先帶著他们前往一楼的禮堂。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1160,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "礼堂里有一个宽阔的舞台，摆放著一座漂亮的钢琴和各种乐器。",
+    "sc_sent": "礼堂里有一个宽阔的舞台，摆放著一座漂亮的钢琴和各种乐器。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "礼堂里有一个宽阔的舞台，放著一座漂亮的钢琴和各种乐器。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1161,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "其中一位来宾连声称赞道：「哇，你们学校的礼堂真的很大呢！」",
+    "sc_sent": "其中一位来宾连声称赞道：「哇，你们学校的礼堂真的很大呢！」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1162,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "我连忙介绍道：「是啊，这里不时会举行讲座，也会让合唱团、话剧组、管弦乐团和中乐团等团体的同学在这里练习呢！」",
+    "sc_sent": "我连忙介绍道：「是啊，这里不时会举行讲座，也会让合唱团、话剧组、管弦乐团和中乐团等团体的同学在这里练习呢！」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1163,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "同学可以在音乐课时来上课，或进行各种关于音乐的兴趣班。",
+    "sc_sent": "同学可以在音乐课时来上课，或进行各种关于音乐的兴趣班。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "同学可以在音乐课时来上课，或参加各种关于音乐的兴趣班。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1164,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "音乐室里还有一个壁板，画上了五彩缤纷的图画，还介绍了一些基本的音符。",
+    "sc_sent": "音乐室里还有一个壁板，画上了五彩缤纷的图画，还介绍了一些基本的音符。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "音乐室里还有一个壁板，上面画了五彩缤纷的图画，还介绍了一些基本的音符。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1165,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "我带来宾到壁板面前，介绍和讲解了这些音符，他们都听得津津有味呢！",
+    "sc_sent": "我带来宾到壁板面前，介绍和讲解了这些音符，他们都听得津津有味呢！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1166,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "之后，我便带他们看看一些里面放著乐器的储物柜道：「这些都是同学用的乐器，他们都会在这里练习。」",
+    "sc_sent": "之后，我便带他们看看一些里面放著乐器的储物柜道：「这些都是同学用的乐器，他们都会在这里练习。」",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "之后，我便带他们看看一些里面放著乐器的储物柜，道：「这些都是同学用的乐器，他们都会在这里练习。」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1167,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "一位来宾问道：「咦？",
+    "sc_sent": "一位来宾问道：「咦？",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "一位来宾问道：「咦？」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1168,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "那个盖著红色布的东西是什么？」",
+    "sc_sent": "那个盖著红色布的东西是什么？」",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "那个盖著红色布的东西是什么？",
+    "remark": ""
+  },
+  {
+    "sent_id": 1169,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "我回答道：「那是一座钢琴，老师会为同学唱歌时弹钢琴伴奏。」",
+    "sc_sent": "我回答道：「那是一座钢琴，老师会为同学唱歌时弹钢琴伴奏。」",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "我回答道：「那是一座钢琴，老师会在为同学唱歌时弹钢琴伴奏。」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1170,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "我给来宾介绍了我们的学校网页，和跟他们讲怎样前往网页；还给他们亲自试用一会儿电脑，来宾们都表现得十分高兴。",
+    "sc_sent": "我给来宾介绍了我们的学校网页，和跟他们讲怎样前往网页；还给他们亲自试用一会儿电脑，来宾们都表现得十分高兴。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "我给来宾介绍了我们的学校网页，跟他们讲怎样前往该网页；还让他们亲自试用一会儿电脑，来宾们都表现得十分高兴。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1171,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "这次带来宾参观校园，我感到获益匪浅，不但增加了我的自信心，而且增强了我的社交能力。",
+    "sc_sent": "这次带来宾参观校园，我感到获益匪浅，不但增加了我的自信心，而且增强了我的社交能力。",
+    "fine_grained_error_type": [
+      "主语不明"
+    ],
+    "revised_sent": "这次带来宾参观校园，使我感到获益匪浅，不但增加了我的自信心，而且增强了我的社交能力。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1172,
+    "essay_id": 11,
+    "grade": 3,
+    "sent": "我希望下次可以再当小导游，再次带来宾参观学校不同的地方。",
+    "sc_sent": "我希望下次可以再当小导游，再次带来宾参观学校不同的地方。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "我希望下次可以再当小导游，再次带宾客参观学校不同的地方。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1173,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "我有许多好朋友，不过我现在想写的是一个与我一见如故的好朋友。",
+    "sc_sent": "我有许多好朋友，不过我现在想写的是一个与我一见如故的好朋友。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1174,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "他有着一头乌黑的头发，一双椭圆的眼睛和一个高挺的鼻子。",
+    "sc_sent": "他有着一头乌黑的头发，一双椭圆的眼睛和一个高挺的鼻子。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1175,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "他喜欢笑，脸上总是挂着笑咪咪的表情，让人感到很舒服。",
+    "sc_sent": "他喜欢笑，脸上总是挂着笑咪咪的表情，让人感到很舒服。",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "他喜欢笑，脸上总是挂着笑眯眯的表情，让人感到很舒服。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1176,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "他就是我的好朋友——凌宗磊。",
+    "sc_sent": "他就是我的好朋友——凌宗磊。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1177,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "凌宗磊是个胆大的男孩。",
+    "sc_sent": "凌宗磊是个胆大的男孩。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1178,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "有一次，我们一家跟凌宗磊一家到维多利亚公园赏花灯。",
+    "sc_sent": "有一次，我们一家跟凌宗磊一家到维多利亚公园赏花灯。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1179,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "公园内人山人海，到处挤得水泄不通。",
+    "sc_sent": "公园内人山人海，到处挤得水泄不通。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "公园内人山人海，挤得水泄不通。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1180,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "我和凌宗磊因一时看得太入迷，走着走着，不知不觉就迷了路。",
+    "sc_sent": "我和凌宗磊因一时看得太入迷，走着走着，不知不觉就迷了路。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1181,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "我的心急得又惊又怕，心想：万一找不到妈妈，怎么办？",
+    "sc_sent": "我的心急得又惊又怕，心想：万一找不到妈妈，怎么办？",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1182,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "我慌得两眼通红，快要哭出来了。",
+    "sc_sent": "我慌得两眼通红，快要哭出来了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1183,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "这时候，凌宗磊大着胆子，没有一点儿害怕，带着我在人群中左穿右插，在微弱的灯光下找到了出路，领着我安全地回到父母的身旁。",
+    "sc_sent": "这时候，凌宗磊大着胆子，没有一点儿害怕，带着我在人群中左穿右插，在微弱的灯光下找到了出路，领着我安全地回到父母的身旁。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1184,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "凌宗磊不但胆子大，而且也是自信满满的呢！",
+    "sc_sent": "凌宗磊不但胆子大，而且也是自信满满的呢！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1185,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "记得今年陆运会的其中一场接力赛，他跟我和两位同学被分到同一组。",
+    "sc_sent": "记得今年陆运会的其中一场接力赛，他跟我和两位同学被分到同一组。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1186,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "比赛快要开始时，我的心「噗噗」地跳着，好像快要跳出来了。",
+    "sc_sent": "比赛快要开始时，我的心「噗噗」地跳着，好像快要跳出来了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1187,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "这时候，凌宗磊轻轻地拍着我的肩膀，然后对我说：「不用怕，只是一场比赛，放松心情吧！」",
+    "sc_sent": "这时候，凌宗磊轻轻地拍着我的肩膀，然后对我说：「不用怕，只是一场比赛，放松心情吧！」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1188,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "我们各自走到自己的起跑点，枪声一响，有人跑得特别慢。",
+    "sc_sent": "我们各自走到自己的起跑点，枪声一响，有人跑得特别慢。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1189,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "到我接棒时，我们已经落后很多了，形势大为不妙。",
+    "sc_sent": "到我接棒时，我们已经落后很多了，形势大为不妙。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1190,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "我费尽全力地跑，当我把接力棒传给凌宗磊时，我紧握拳头，大声喊道：「快跑啊！",
+    "sc_sent": "我费尽全力地跑，当我把接力棒传给凌宗磊时，我紧握拳头，大声喊道：「快跑啊！",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "我费尽全力地跑，当我把接力棒传给凌宗磊时，我紧握拳头，大声喊道：「快跑啊！」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1191,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "快跑啊......」凌宗磊一点都不慌，一拿到棒就像一匹千里马般飞快地跑了起来，超过一个人、二个人、三个人......",
+    "sc_sent": "快跑啊......」凌宗磊一点都不慌，一拿到棒就像一匹千里马般飞快地跑了起来，超过一个人、二个人、三个人......",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "快跑啊……」凌宗磊一点都不慌，一拿到棒就像一匹千里马般飞快地跑了起来，超过一个人、两个人、三个人……",
+    "remark": ""
+  },
+  {
+    "sent_id": 1192,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "到了最后，我们组还拿到季军，我简直开心得快要飞上天了。",
+    "sc_sent": "到了最后，我们组还拿到季军，我简直开心得快要飞上天了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1193,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "凌宗磊让我学会要刚强勇敢。",
+    "sc_sent": "凌宗磊让我学会要刚强勇敢。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1194,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "我非常喜欢凌宗磊，因为可以向他学习充满自信、充满阳光的态度，他是我的好榜样。",
+    "sc_sent": "我非常喜欢凌宗磊，因为可以向他学习充满自信、充满阳光的态度，他是我的好榜样。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "我非常喜欢凌宗磊，因为可以从他身上学到充满自信、充满阳光的态度，他是我的好榜样。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1195,
+    "essay_id": 12,
+    "grade": 3,
+    "sent": "我希望我们永远都是好朋友。",
+    "sc_sent": "我希望我们永远都是好朋友。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1196,
+    "essay_id": 13,
+    "grade": 4,
+    "sent": "今天我生病了，没有上学，但得到家人的悉心照顾，感到很快乐。",
+    "sc_sent": "今天我生病了，没有上学，但得到家人的悉心照顾，感到很快乐。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "今天我生病了，没有上学，但得到家人的悉心照顾，感到很温暖。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1197,
+    "essay_id": 13,
+    "grade": 4,
+    "sent": "在早上的时候，我觉得又热又头痛。",
+    "sc_sent": "在早上的时候，我觉得又热又头痛。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1198,
+    "essay_id": 13,
+    "grade": 4,
+    "sent": "妈妈立即帮我量体温，结果发了烧不能上学。",
+    "sc_sent": "妈妈立即帮我量体温，结果发了烧不能上学。",
+    "fine_grained_error_type": [
+      "谓语残缺"
+    ],
+    "revised_sent": "妈妈立即帮我量体温，结果发现我发了烧不能上学。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1199,
+    "essay_id": 13,
+    "grade": 4,
+    "sent": "家人给我吃药，还煮了粥给我吃。",
+    "sc_sent": "家人给我吃药，还煮了粥给我吃。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1200,
+    "essay_id": 13,
+    "grade": 4,
+    "sent": "我得到家人的照顾，感到很开心。",
+    "sc_sent": "我得到家人的照顾，感到很开心。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1201,
+    "essay_id": 13,
+    "grade": 4,
+    "sent": "今天我生病了，但有家人的照顾和温暖。",
+    "sc_sent": "今天我生病了，但有家人的照顾和温暖。",
+    "fine_grained_error_type": [
+      "宾语残缺"
+    ],
+    "revised_sent": "今天我生病了，但有家人的照顾和温暖的关怀。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1202,
+    "essay_id": 13,
+    "grade": 4,
+    "sent": "希望我可以快点康复，健健康康地上学。",
+    "sc_sent": "希望我可以快点康复，健健康康地上学。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1203,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "我一想起小学毕业快到了，心中就充满了不舍。",
+    "sc_sent": "我一想起小学毕业快到了，心中就充满了不舍。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "我一想起小学毕业的日子快到了，心中就充满了不舍。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1204,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "回想起这六年的小学生活，那些难忘的事还在我的脑海里记忆犹新。",
+    "sc_sent": "回想起这六年的小学生活，那些难忘的事还在我的脑海里记忆犹新。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "回想起这六年的小学生活，那些难忘的事还在我的脑海里。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1205,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "一年级第一天上课当天，一听到铃声，所有一年级同学就像木头公仔一样静止不动，而要离开妈妈的我就害怕得哇哇大哭起来。",
+    "sc_sent": "一年级第一天上课当天，一听到铃声，所有一年级同学就像木头公仔一样静止不动，而要离开妈妈的我就害怕得哇哇大哭起来。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "一年级第一天上课，一听到铃声，所有同学就像木头公仔一样静止不动，而要离开妈妈的我就害怕得哇哇大哭起来。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1206,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "忽然我听到一把温柔的声音在安慰我，原来是班主任李老师。",
+    "sc_sent": "忽然我听到一把温柔的声音在安慰我，原来是班主任李老师。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1207,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "她一头乌黑的短发和一副圆圆的眼镜，样子和蔼可亲。",
+    "sc_sent": "她一头乌黑的短发和一副圆圆的眼镜，样子和蔼可亲。",
+    "fine_grained_error_type": [
+      "谓语残缺"
+    ],
+    "revised_sent": "她一头乌黑的短发，戴著一副圆圆的眼镜，样子和蔼可亲。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1208,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "她对我说「不要害怕」，然后她还替我擦干眼泪，紧紧地牵着我去集队。",
+    "sc_sent": "她对我说「不要害怕」，然后她还替我擦干眼泪，紧紧地牵着我去集队。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1209,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "二年级时，我因为在午餐时吃错东西，所以在上课时感到不适。",
+    "sc_sent": "二年级时，我因为在午餐时吃错东西，所以在上课时感到不适。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1210,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "当我想举手告诉老师时，我突然呕吐，课室里仿佛弥漫着酸臭味。",
+    "sc_sent": "当我想举手告诉老师时，我突然呕吐，课室里仿佛弥漫着酸臭味。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1211,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "有的同学争先恐后地跑出课室，有的大呼小叫，有的吓得呆若木鸡。",
+    "sc_sent": "有的同学争先恐后地跑出课室，有的大呼小叫，有的吓得呆若木鸡。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1212,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "而李老师便一边扶着我到医疗室，一边安慰我，还在同我等候妈妈来接我的时候照顾我。",
+    "sc_sent": "而李老师便一边扶着我到医疗室，一边安慰我，还在同我等候妈妈来接我的时候照顾我。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1213,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "四年级时，我被训导主任误会我跟同学打架，我百口莫辩，怎样解释他也不相信，还认为我在说谎，所以就训罚我整个星期的小息也在教员室门外罚站，我委屈得像柠檬一样又酸又涩。",
+    "sc_sent": "四年级时，我被训导主任误会我跟同学打架，我百口莫辩，怎样解释他也不相信，还认为我在说谎，所以就训罚我整个星期的小息也在教员室门外罚站，我委屈得像柠檬一样又酸又涩。",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "四年级时，我被训导主任误会我跟同学打架，我百口莫辩，怎样解释他也不相信，还认为我在说谎，所以就训罚我整个星期的小息也要在教员室门外罚站，我委屈得像柠檬一样又酸又涩。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1214,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "恰巧李老师经过，她看见我委屈的样子，就问我发生了甚么事情。",
+    "sc_sent": "恰巧李老师经过，她看见我委屈的样子，就问我发生了甚么事情。",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "恰巧李老师经过，她看见我委屈的样子，就问我发生了甚麼事情。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1215,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "我把整件事情和盘托出，她听到后就立即带我跟训导主任澄清，幸好我可以沉冤得雪。",
+    "sc_sent": "我把整件事情和盘托出，她听到后就立即带我跟训导主任澄清，幸好我可以沉冤得雪。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "我把整件事情和盘托出，她听到后就立即带我到训导主任那裡澄清，幸好我可以沉冤得雪。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1216,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "李老师就像天使一样，在我傍徨无助的时候雪中送炭。",
+    "sc_sent": "李老师就像天使一样，在我傍徨无助的时候雪中送炭。",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "李老师就像天使一样，在我徬徨无助的时候雪中送炭。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1217,
+    "essay_id": 14,
+    "grade": 6,
+    "sent": "李老师，我真得很不舍得您，正所谓「天下无不散之席」，我会在毕业之后来学校探望您。",
+    "sc_sent": "李老师，我真得很不舍得您，正所谓「天下无不散之席」，我会在毕业之后来学校探望您。",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "李老师，我真的很不舍得您，正所谓「天下无不散之筵席」，我会在毕业之后来学校探望您。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1218,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "内容：每当看到课室的照片就想起了那场令我难忘的学校田径比赛的情形。",
+    "sc_sent": "内容：每当看到课室的照片就想起了那场令我难忘的学校田径比赛的情形。",
+    "fine_grained_error_type": [
+      "主语多余"
+    ],
+    "revised_sent": "每当看到课室的照片，我就想起了那场令我难忘的学校田径比赛的情形。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1219,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "上星期日是我们学校一年一度举办田径比赛的大日子。",
+    "sc_sent": "上星期日是我们学校一年一度举办田径比赛的大日子。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "上星期日是我们学校一年一度举行田径比赛的大日子。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1220,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "我们到达目的地小西湾运动场，我便看到绿油油的标准草地球场、色彩缤纷的看台和红彤彤的跑道。",
+    "sc_sent": "我们到达目的地小西湾运动场，我便看到绿油油的标准草地球场、色彩缤纷的看台和红彤彤的跑道。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1221,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "看台上面早已坐满了情绪高涨的同学，场面顿时沸腾了起来。",
+    "sc_sent": "看台上面早已坐满了情绪高涨的同学，场面顿时沸腾了起来。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1222,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "每组是一百米短跑，运动员们都英姿焕发地准备迎接一场激烈的战斗。",
+    "sc_sent": "每组是一百米短跑，运动员们都英姿焕发地准备迎接一场激烈的战斗。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "每组是一百米短跑，运动员们都英姿焕发地准备迎接一场激烈的比赛。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1223,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "我还看到我的好朋友镁镁，她是我们班的「飞毛腿」呢！",
+    "sc_sent": "我还看到我的好朋友镁镁，她是我们班的「飞毛腿」呢！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1224,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "比赛开始了，一开跑时，是甲班的小明领先，我看镁镁还没有全力出击，就知道她要先保留实力，一会儿用力，她要用尽全力冲向终点。",
+    "sc_sent": "比赛开始了，一开跑时，是甲班的小明领先，我看镁镁还没有全力出击，就知道她要先保留实力，一会儿用力，她要用尽全力冲向终点。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "比赛开始了，一开跑，甲班的小明领先，我看镁镁还没有全力出击，就知道她要先保留实力，待一会儿再发力，她要尽全力冲向终点。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1225,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "最后镁镁打破了学校田径比赛的终点记录。",
+    "sc_sent": "最后镁镁打破了学校田径比赛的终点记录。",
+    "fine_grained_error_type": [
+      "其他搭配不当"
+    ],
+    "revised_sent": "最后镁镁打破了学校田径比赛的紀錄。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1226,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "到了最后，校长亲自给镁镁颁奖，我们班笑著拍了张大合照，贴在课室的壁报上。",
+    "sc_sent": "到了最后，校长亲自给镁镁颁奖，我们班笑著拍了张大合照，贴在课室的壁报上。",
+    "fine_grained_error_type": [
+      "错别字错误"
+    ],
+    "revised_sent": "到了最后，校长亲自给镁镁颁奖，我们班笑着拍了张大合照，贴在课室的壁报上。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1227,
+    "essay_id": 15,
+    "grade": 5,
+    "sent": "我很为镁镁感到骄傲，也为自己感到遗憾，因为自己没有参加那些有趣的田径比赛，希望下年可以和我们班的「飞毛腿」一起跑呢。",
+    "sc_sent": "我很为镁镁感到骄傲，也为自己感到遗憾，因为自己没有参加那些有趣的田径比赛，希望下年可以和我们班的「飞毛腿」一起跑呢。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1228,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "我最好的朋友是谢依桦。",
+    "sc_sent": "我最好的朋友是谢依桦。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1229,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "她有一双细小可爱的眼睛，乌黑的短发让人感觉清爽，脸蛋红得像苹果一样，十分漂亮。",
+    "sc_sent": "她有一双细小可爱的眼睛，乌黑的短发让人感觉清爽，脸蛋红得像苹果一样，十分漂亮。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1230,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "谢依桦的个性活泼开朗，平易近人。",
+    "sc_sent": "谢依桦的个性活泼开朗，平易近人。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1231,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "每逢捉迷藏，我发觉跟她一起玩耍时，游戏总是变得特别好玩，原因是她有这个开朗的性格，感染了大家，令大家的情绪都特别高涨。",
+    "sc_sent": "每逢捉迷藏，我发觉跟她一起玩耍时，游戏总是变得特别好玩，原因是她有这个开朗的性格，感染了大家，令大家的情绪都特别高涨。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1232,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "她是个乒乓球高手，乒乓球的技巧简直惊人。",
+    "sc_sent": "她是个乒乓球高手，乒乓球的技巧简直惊人。",
+    "fine_grained_error_type": [
+      "其他搭配不当"
+    ],
+    "revised_sent": "她是个乒乓球高手，乒乓球技巧简直惊人。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1233,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "有一次她在「女子组乒乓球单打」比赛中取得冠军，我惊讶得目瞪口呆。",
+    "sc_sent": "有一次她在「女子组乒乓球单打」比赛中取得冠军，我惊讶得目瞪口呆。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1234,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "又有一次我在小息时间问她：「依桦，乒乓球除了『反手』和『正手』之外，还有甚么招式？」",
+    "sc_sent": "又有一次我在小息时间问她：「依桦，乒乓球除了『反手』和『正手』之外，还有甚么招式？」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1235,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "然后她一下子便说了许多不同的招式，光是听这个「乒乓高手」说这么多招式，我真的快昏倒了。",
+    "sc_sent": "然后她一下子便说了许多不同的招式，光是听这个「乒乓高手」说这么多招式，我真的快昏倒了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1236,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "我自此以后，真佩服她。",
+    "sc_sent": "我自此以后，真佩服她。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1237,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "她不但友善，而且非常开朗。",
+    "sc_sent": "她不但友善，而且非常开朗。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1238,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "有一次她约了我和同学王蔼林吃完晚饭一起在我家楼下的公园玩耍。",
+    "sc_sent": "有一次她约了我和同学王蔼林吃完晚饭一起在我家楼下的公园玩耍。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "有一次她约了我和同学王蔼林，吃完晚饭后一起到我家楼下的公园玩耍。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1239,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "她一边跟我们玩，一边哈哈大笑。",
+    "sc_sent": "她一边跟我们玩，一边哈哈大笑。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1240,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "她平时脸上已经挂着笑容，跟我们玩时自然笑得更开心了。",
+    "sc_sent": "她平时脸上已经挂着笑容，跟我们玩时自然笑得更开心了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1241,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "看到她笑得这么快乐，我心里一暖，也跟着笑了起来。",
+    "sc_sent": "看到她笑得这么快乐，我心里一暖，也跟着笑了起来。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1242,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "我很喜欢她这一点，因为她有能力把快乐传送给别人。",
+    "sc_sent": "我很喜欢她这一点，因为她有能力把快乐传送给别人。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1243,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "自从我进入了三乙班，认识了谢依桦，她便成为了我最要好的朋友。",
+    "sc_sent": "自从我进入了三乙班，认识了谢依桦，她便成为了我最要好的朋友。",
+    "fine_grained_error_type": [
+      "主语不明"
+    ],
+    "revised_sent": "自从我进入三乙班，认识了谢依桦，我和她便成为了最要好的朋友。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1244,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "她是一个「快乐传送机器」，十分乐观，值得我们好好学习。",
+    "sc_sent": "她是一个「快乐传送机器」，十分乐观，值得我们好好学习。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1245,
+    "essay_id": 16,
+    "grade": 3,
+    "sent": "我要衷心地向她说：「谢依桦，我们永远都是好朋友。」",
+    "sc_sent": "我要衷心地向她说：「谢依桦，我们永远都是好朋友。」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1246,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "上星期六是假期的第一天，妈妈就立刻说：「我们去牛奶冰室吧！」",
+    "sc_sent": "上星期六是假期的第一天，妈妈就立刻说：「我们去牛奶冰室吧！」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1247,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "我和爸爸马上点头赞成。",
+    "sc_sent": "我和爸爸马上点头赞成。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1248,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "到了茶餐厅门口，侍应就热情地欢迎我们。",
+    "sc_sent": "到了茶餐厅门口，侍应就热情地欢迎我们。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1249,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "我们入座后，就点了一碟干炒牛河和雪糕红豆冰。",
+    "sc_sent": "我们入座后，就点了一碟干炒牛河和雪糕红豆冰。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1250,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "不一会儿，食物到了，妈妈就把食物分给我们。",
+    "sc_sent": "不一会儿，食物到了，妈妈就把食物分给我们。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1251,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "我急不及待地吃了一口。",
+    "sc_sent": "我急不及待地吃了一口。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1252,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "刚出炉的干炒牛河新鲜火辣，火气十足。",
+    "sc_sent": "刚出炉的干炒牛河新鲜火辣，火气十足。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1253,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "牛肉炒得很松软，河粉亦炒得十分弹牙。",
+    "sc_sent": "牛肉炒得很松软，河粉亦炒得十分弹牙。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1254,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "配合雪糕红豆冰，真是美味极了！",
+    "sc_sent": "配合雪糕红豆冰，真是美味极了！",
+    "fine_grained_error_type": [
+      "主语不明"
+    ],
+    "revised_sent": "这（食物）配合雪糕红豆冰，真是美味极了！",
+    "remark": ""
+  },
+  {
+    "sent_id": 1255,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "我准备再舀一碗，并用筷子翻拨河粉时，我发现里面竟然藏着洋葱！",
+    "sc_sent": "我准备再舀一碗，并用筷子翻拨河粉时，我发现里面竟然藏着洋葱！",
+    "fine_grained_error_type": [
+      "主语多余",
+      "虚词多余"
+    ],
+    "revised_sent": "当我准备再舀一碗，用筷子翻拨河粉时，我发现里面竟然藏着洋葱！",
+    "remark": ""
+  },
+  {
+    "sent_id": 1256,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "我立刻不想吃了。",
+    "sc_sent": "我立刻不想吃了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1257,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "爸爸看见我因为洋葱而不吃干炒牛河，便语重心长地对我说：「洋葱虽然不是人人喜欢，但其实它是十分有益的。」",
+    "sc_sent": "爸爸看见我因为洋葱而不吃干炒牛河，便语重心长地对我说：「洋葱虽然不是人人喜欢，但其实它是十分有益的。」",
+    "fine_grained_error_type": [
+      "主语多余"
+    ],
+    "revised_sent": "爸爸看见我因为洋葱而不吃干炒牛河，便语重心长地对我说：「洋葱虽然不是人人喜欢，但其实是十分有益的。」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1258,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "我听完爸爸的话，就硬着头皮把洋葱吃掉。",
+    "sc_sent": "我听完爸爸的话，就硬着头皮把洋葱吃掉。",
+    "fine_grained_error_type": [
+      "其他成分残缺"
+    ],
+    "revised_sent": "我听完爸爸的话，就硬着头皮把洋葱吃掉了。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1259,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "那天到牛奶冰室吃美味的早餐，我感到很难忘。",
+    "sc_sent": "那天到牛奶冰室吃美味的早餐，我感到很难忘。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "那天我到牛奶冰室吃美味的早餐，觉得很难忘。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1260,
+    "essay_id": 17,
+    "grade": 3,
+    "sent": "我希望这茶餐厅可以一直经营下去，保留香港的特别食品。",
+    "sc_sent": "我希望这茶餐厅可以一直经营下去，保留香港的特别食品。",
+    "fine_grained_error_type": [
+      "缺字漏字",
+      "其他成分多余"
+    ],
+    "revised_sent": "我希望这家茶餐厅可以一直经营下去，保留香港的特色。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1261,
+    "essay_id": 18,
+    "grade": 4,
+    "sent": "我相信热爱足球的人都应知道球王比利是谁，而我就是其中一位。",
+    "sc_sent": "我相信热爱足球的人都应知道球王比利是谁，而我就是其中一位。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1262,
+    "essay_id": 18,
+    "grade": 4,
+    "sent": "他是一位不辞劳苦的人。",
+    "sc_sent": "他是一位不辞劳苦的人。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1263,
+    "essay_id": 18,
+    "grade": 4,
+    "sent": "他在每个世界杯之前，都不停地努力练习，最终三度带领巴西国家队获得世界杯冠军。",
+    "sc_sent": "他在每个世界杯之前，都不停地努力练习，最终三度带领巴西国家队获得世界杯冠军。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1264,
+    "essay_id": 18,
+    "grade": 4,
+    "sent": "他也是一位勤学的人。",
+    "sc_sent": "他也是一位勤学的人。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1265,
+    "essay_id": 18,
+    "grade": 4,
+    "sent": "我最深刻的一次是在一九七零年巴西对瑞典的世界杯决赛，他进两球，为巴西获得历史性的第一次世界杯冠军。",
+    "sc_sent": "我最深刻的一次是在一九七零年巴西对瑞典的世界杯决赛，他进两球，为巴西获得历史性的第一次世界杯冠军。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "我印象最深刻的一次是一九七零年巴西对瑞典的世界杯决赛，他进两球，巴西获得了历史性的第一次世界杯冠军。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1266,
+    "essay_id": 18,
+    "grade": 4,
+    "sent": "他令我明白到要不辞劳苦，才能有收获。",
+    "sc_sent": "他令我明白到要不辞劳苦，才能有收获。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "他令我明白要不辞劳苦，才能有收获。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1267,
+    "essay_id": 18,
+    "grade": 4,
+    "sent": "我真希望我能见他一面，可惜他已去世。",
+    "sc_sent": "我真希望我能见他一面，可惜他已去世。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1268,
+    "essay_id": 18,
+    "grade": 4,
+    "sent": "他的事迹激励著我，在面对困难时要不断努力，不被环境所限制，才能取得成功。",
+    "sc_sent": "他的事迹激励著我，在面对困难时要不断努力，不被环境所限制，才能取得成功。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1269,
+    "essay_id": 19,
+    "grade": 5,
+    "sent": "每当我看见桌上的中文课本，我的脑海里就会浮现出上星期一课室里出现一只「不速之客」的经历，那次经历令我刻骨铭心。",
+    "sc_sent": "每当我看见桌上的中文课本，我的脑海里就会浮现出上星期一课室里出现一只「不速之客」的经历，那次经历令我刻骨铭心。",
+    "fine_grained_error_type": [
+      "其他搭配不当"
+    ],
+    "revised_sent": "每当我看见桌上的中文课本，我的脑海里就会浮现出上周一课室里出现一只「不速之客」的情景，那次经历令我刻骨铭心。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1270,
+    "essay_id": 19,
+    "grade": 5,
+    "sent": "上星期一，我和同学们正在上中文课时，突然有一只蜜蜂飞进课室里。",
+    "sc_sent": "上星期一，我和同学们正在上中文课时，突然有一只蜜蜂飞进课室里。",
+    "fine_grained_error_type": [
+      "其他搭配不当"
+    ],
+    "revised_sent": "上周一，我和同学们正在上中文课时，突然有一只蜜蜂飞进课室里。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1271,
+    "essay_id": 19,
+    "grade": 5,
+    "sent": "课室里顿时乱作一团，有的同学双脚发抖，有的同学惊惶失色，有的同学发出尖叫声，尖叫声此起彼落。",
+    "sc_sent": "课室里顿时乱作一团，有的同学双脚发抖，有的同学惊惶失色，有的同学发出尖叫声，尖叫声此起彼落。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1272,
+    "essay_id": 19,
+    "grade": 5,
+    "sent": "那时，何老师不慌不忙地叫同学们回到座位上，然后小心翼翼地打开窗户，但那只蜜蜂还是不走。",
+    "sc_sent": "那时，何老师不慌不忙地叫同学们回到座位上，然后小心翼翼地打开窗户，但那只蜜蜂还是不走。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1273,
+    "essay_id": 19,
+    "grade": 5,
+    "sent": "何老师只好致电工友营救。",
+    "sc_sent": "何老师只好致电工友营救。",
+    "fine_grained_error_type": [
+      "其他搭配不当"
+    ],
+    "revised_sent": "何老师只好致电工友求救。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1274,
+    "essay_id": 19,
+    "grade": 5,
+    "sent": "过了几分钟后，工友叔叔扶著扫帚来了，他用一张纸轻轻按住那只蜜蜂，然后把它扔到走廊的垃圾桶里。",
+    "sc_sent": "过了几分钟后，工友叔叔扶著扫帚来了，他用一张纸轻轻按住那只蜜蜂，然后把它扔到走廊的垃圾桶里。",
+    "fine_grained_error_type": [
+      "虚词多余"
+    ],
+    "revised_sent": "过了几分钟，工友叔叔扶著扫帚来了，他用一张纸轻轻按住那只蜜蜂，然后把它扔到走廊的垃圾桶里。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1275,
+    "essay_id": 19,
+    "grade": 5,
+    "sent": "同学们喜上眉梢，悬著的一颗心终于可以放下来了。",
+    "sc_sent": "同学们喜上眉梢，悬著的一颗心终于可以放下来了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1276,
+    "essay_id": 19,
+    "grade": 5,
+    "sent": "那次经历，令我学会遇到紧急的情况时，我们要保持冷静，积极思考解决方法。",
+    "sc_sent": "那次经历，令我学会遇到紧急的情况时，我们要保持冷静，积极思考解决方法。",
+    "fine_grained_error_type": [
+      "缺少标点"
+    ],
+    "revised_sent": "那次经历，令我学会：遇到紧急的情况时，我们要保持冷静，积极思考解决方法。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1277,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "万里路非常重要。",
+    "sc_sent": "万里路非常重要。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1278,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "虽然知识不限在书本里，可是书本里的知识不是不重要的。",
+    "sc_sent": "虽然知识不限在书本里，可是书本里的知识不是不重要的。",
+    "fine_grained_error_type": [
+      "其他搭配不当"
+    ],
+    "revised_sent": "虽然知识不限在书本里，但是书本里的知识是重要的。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1279,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "读过书的一看到长城，应该就想到秦始皇的历史，还可能想到秦朝的历史呢！",
+    "sc_sent": "读过书的一看到长城，应该就想到秦始皇的历史，还可能想到秦朝的历史呢！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1280,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "但如果一个没有读书的人看到长城，可能就感到很疑惑，问：「为甚么要建长城呢？",
+    "sc_sent": "但如果一个没有读书的人看到长城，可能就感到很疑惑，问：「为甚么要建长城呢？",
+    "fine_grained_error_type": [
+      "其他搭配不当",
+      "错用标点"
+    ],
+    "revised_sent": "但如果一个没有读书的人看到长城，可能就感到很疑惑，问：「为什么要建长城呢？」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1281,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "建这个也很花时间呢。」",
+    "sc_sent": "建这个也很花时间呢。」",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "建这个也很花时间呢。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1282,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "由此可见，在期考中，读万卷书也一样非常重要。",
+    "sc_sent": "由此可见，在期考中，读万卷书也一样非常重要。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "由此可见，在期中考，读万卷书也一样非常重要。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1283,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "我认为我们应该把读万卷书和行万里路一起做，要通过读万卷书才能到不同的地方行万里路；要通过行万里路才能收集或自编万卷书。",
+    "sc_sent": "我认为我们应该把读万卷书和行万里路一起做，要通过读万卷书才能到不同的地方行万里路；要通过行万里路才能收集或自编万卷书。",
+    "fine_grained_error_type": [
+      "语序不当",
+      "动宾搭配不当"
+    ],
+    "revised_sent": "我认为我们应该把读万卷书和行万里路结合起来，读万卷书能让我们在思想上领略不同的地方，行万里路能让我们亲身感受世界并积累素材。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1284,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "其实原本「读万卷书，不如行万里路。」",
+    "sc_sent": "其实原本「读万卷书，不如行万里路。」",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "其实原本「读万卷书，不如行万里路」。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1285,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "总而言之，我认为万卷书和行万里路都一样重要，我们要把二者一起做，才能长更多知识。",
+    "sc_sent": "总而言之，我认为万卷书和行万里路都一样重要，我们要把二者一起做，才能长更多知识。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "总而言之，我认为万卷书和行万里路都一样重要，我们要把二者结合起来，才能增长更多知识。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1286,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "大家有听过「读万卷书，不如行万里路」这句话吗？",
+    "sc_sent": "大家有听过「读万卷书，不如行万里路」这句话吗？",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1287,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "相信大部分听过的人也有。",
+    "sc_sent": "相信大部分听过的人也有。",
+    "fine_grained_error_type": [
+      "宾语残缺"
+    ],
+    "revised_sent": "相信大部分听过的人也有这样的感受。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1288,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "首先，行万里路能让自己亲身体验到外面的景色，只用书本上的文字来表达不会立刻明白那景色，要到达目的地才能知道。",
+    "sc_sent": "首先，行万里路能让自己亲身体验到外面的景色，只用书本上的文字来表达不会立刻明白那景色，要到达目的地才能知道。",
+    "fine_grained_error_type": [
+      "缺少标点"
+    ],
+    "revised_sent": "首先，行万里路能让自己亲身体验到外面的景色，只用书本上的文字来表达，不会立刻明白那景色，要到达目的地才能知道。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1289,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "而且知识不只限于书本里，在不同的地方能见识它的文化、习性，从而增广见闻，学到书本上学不到的知识。",
+    "sc_sent": "而且知识不只限于书本里，在不同的地方能见识它的文化、习性，从而增广见闻，学到书本上学不到的知识。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1290,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "书本是前人智慧的结晶，通过阅读书本，我们可以系统地学习各种知识。",
+    "sc_sent": "书本是前人智慧的结晶，通过阅读书本，我们可以系统地学习各种知识。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1291,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "例如在科学方面，物理、化学、生物等学科的知识体系庞大，若不通过书本学习，很难掌握其基本原理。",
+    "sc_sent": "例如在科学方面，物理、化学、生物等学科的知识体系庞大，若不通过书本学习，很难掌握其基本原理。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1292,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "再如历史，书本详细记载了各个朝代的兴衰更替、人物事迹等，若只靠行万里路去了解，只能获得片面的、零散的信息。",
+    "sc_sent": "再如历史，书本详细记载了各个朝代的兴衰更替、人物事迹等，若只靠行万里路去了解，只能获得片面的、零散的信息。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1293,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "再者，行万里路也需要一定的知识基础作支撑。",
+    "sc_sent": "再者，行万里路也需要一定的知识基础作支撑。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1294,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "如果没有在书本上了解地理、文化等知识，即使到了目的地，也可能只是浮光掠影，不能深入领会其中的内涵。",
+    "sc_sent": "如果没有在书本上了解地理、文化等知识，即使到了目的地，也可能只是浮光掠影，不能深入领会其中的内涵。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1295,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "所以，我认为「读万卷书不如行万里路」这句话是片面的。",
+    "sc_sent": "所以，我认为「读万卷书不如行万里路」这句话是片面的。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1296,
+    "essay_id": 20,
+    "grade": 6,
+    "sent": "万卷书和行万里路都很重要，二者相辅相成，不可偏废。",
+    "sc_sent": "万卷书和行万里路都很重要，二者相辅相成，不可偏废。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1297,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "「光阴似箭，日月如梭。」",
+    "sc_sent": "「光阴似箭，日月如梭。」",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1298,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "转眼已经过去了六年，我们的小学生涯快要结束了。",
+    "sc_sent": "转眼已经过去了六年，我们的小学生涯快要结束了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1299,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "回想起在小学的生活，一件件的事已经涌上心头了。",
+    "sc_sent": "回想起在小学的生活，一件件的事已经涌上心头了。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "回想起在小学的生活，一件件事涌上心头。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1300,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "以前，我们还是一群懵懵懂懂的小孩子，在整个学习生活裹，老师、同学、师长和校园里的一草一木都在陪伴我成长，有很多新奇有趣的东西，总是令我全身投入和享受这个美妙的校园生活。",
+    "sc_sent": "以前，我们还是一群懵懵懂懂的小孩子，在整个学习生活裹，老师、同学、师长和校园里的一草一木都在陪伴我成长，有很多新奇有趣的东西，总是令我全身投入和享受这个美妙的校园生活。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "以前，我們還是一群懵懵懂懂的小孩子，在整個學習生活裡，老師、同學和校園裡的一草一木都在陪伴我成長，有很多新奇有趣的東西，總是令我全身心投入並享受這個美妙的校園生活。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1301,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "每当一听到母校的校歌时，就彷佛感到不舍。",
+    "sc_sent": "每当一听到母校的校歌时，就彷佛感到不舍。",
+    "fine_grained_error_type": [
+      "其他成分多余",
+      "主语不明"
+    ],
+    "revised_sent": "每当听到母校的校歌时，我就感到不舍。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1302,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "我校的一草一木都有著我的回忆。",
+    "sc_sent": "我校的一草一木都有著我的回忆。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "我校的一草一木都有我的回憶。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1303,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "在毕业时，许多平平无奇的事物，都令我百感交集。",
+    "sc_sent": "在毕业时，许多平平无奇的事物，都令我百感交集。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1304,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "有开心的时候，也有伤感的时候，总是令我舍不得母校，也希望继续在母校待下去。",
+    "sc_sent": "有开心的时候，也有伤感的时候，总是令我舍不得母校，也希望继续在母校待下去。",
+    "fine_grained_error_type": [
+      "主语不明"
+    ],
+    "revised_sent": "在母校的时光，有开心的时候，也有伤感的时候，这总是令我舍不得母校，也希望继续在母校待下去。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1305,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "但是「世事不如人意」，很快我们就要离开母校了。",
+    "sc_sent": "但是「世事不如人意」，很快我们就要离开母校了。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1306,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "同学永远都是互相关怀，互相体谅的好知己，能够遇到彼此是天神的眷顾。",
+    "sc_sent": "同学永远都是互相关怀，互相体谅的好知己，能够遇到彼此是天神的眷顾。",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "同学永远都是互相关怀、互相体谅的好知己，能够遇到彼此是天神的眷顾。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1307,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "每当我开心的时候，朋友和我分享喜悦；每当我伤心的时候，他们安慰我，给予我鼓励。",
+    "sc_sent": "每当我开心的时候，朋友和我分享喜悦；每当我伤心的时候，他们安慰我，给予我鼓励。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1308,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "我们之间的友谊有笑有泪、有甜有苦的。",
+    "sc_sent": "我们之间的友谊有笑有泪、有甜有苦的。",
+    "fine_grained_error_type": [
+      "其他成分残缺"
+    ],
+    "revised_sent": "我们之间的友谊是有笑有泪、有甜有苦的。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1309,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "我们会一起分享自己生活上的趣事，一起渡过难关，我们的友情一定能经得起时间的折磨，永远是最坚固的。",
+    "sc_sent": "我们会一起分享自己生活上的趣事，一起渡过难关，我们的友情一定能经得起时间的折磨，永远是最坚固的。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "我们会一起分享自己生活上的趣事，一起渡过难关，我们的友情一定能经得起时间的考验，永远是最坚固的。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1310,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "何老师陪伴我成长，就像一个辛勤的园丁一样，每天悉心地照料我，替我浇水。",
+    "sc_sent": "何老师陪伴我成长，就像一个辛勤的园丁一样，每天悉心地照料我，替我浇水。",
+    "fine_grained_error_type": [
+      "其他成分多余",
+      "动宾搭配不当"
+    ],
+    "revised_sent": "何老师陪伴我成长，就像一个辛勤的园丁，每天悉心地照料我，给我浇水。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1311,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "不管多么辛苦，甚至风吹雨打，也毫不抱怨。",
+    "sc_sent": "不管多么辛苦，甚至风吹雨打，也毫不抱怨。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1312,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "老师每天都教导我们不同的道理，让我们明白道德观念的重要性，每天孜孜不倦地栽培我，循循善诱地帮助我。",
+    "sc_sent": "老师每天都教导我们不同的道理，让我们明白道德观念的重要性，每天孜孜不倦地栽培我，循循善诱地帮助我。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "老师每天都教导我们不同的道理，让我们明白道德观念的重要性，每天孜孜不倦地教导我，循循善诱地帮助我。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1313,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "老师那努力不懈的精神，令我深感佩服。",
+    "sc_sent": "老师那努力不懈的精神，令我深感佩服。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1314,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "朋友和同学们也要各奔前程，所以唯有抱著积极向上的心情去迎接中学生活。",
+    "sc_sent": "朋友和同学们也要各奔前程，所以唯有抱著积极向上的心情去迎接中学生活。",
+    "fine_grained_error_type": [
+      "动宾搭配不当"
+    ],
+    "revised_sent": "朋友和同学们也要各奔前程，所以唯有抱著积极向上的心态去迎接中学生活。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1315,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "虽然和同学、老师离别十分不舍，可能我们也会不适应中学的生活，但只要放松自己，就必定能做到。",
+    "sc_sent": "虽然和同学、老师离别十分不舍，可能我们也会不适应中学的生活，但只要放松自己，就必定能做到。",
+    "fine_grained_error_type": [
+      "语序不当"
+    ],
+    "revised_sent": "虽然和同学、老师离别十分不舍，我们可能也会不适应中学的生活，但只要放松自己，就必定能做到。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1316,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "老师的教诲，我一定会铭记于心，朋友和同学之间的友谊，我也牢记在心。",
+    "sc_sent": "老师的教诲，我一定会铭记于心，朋友和同学之间的友谊，我也牢记在心。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1317,
+    "essay_id": 21,
+    "grade": 6,
+    "sent": "最后，让我跟母校说声再见了！",
+    "sc_sent": "最后，让我跟母校说声再见了！",
+    "fine_grained_error_type": [
+      "虚词多余"
+    ],
+    "revised_sent": "最后，讓我跟母校說聲再見！",
+    "remark": ""
+  },
+  {
+    "sent_id": 1318,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "我是一个常常偷懒的同学，在家里有时偷偷地去公园，有时偷看电视，也有时偷吃小吃，只会在家里做少许功课，惹得爸爸妈妈怒火中烧，宛如火山爆发。",
+    "sc_sent": "我是一个常常偷懒的同学，在家里有时偷偷地去公园，有时偷看电视，也有时偷吃小吃，只会在家里做少许功课，惹得爸爸妈妈怒火中烧，宛如火山爆发。",
+    "fine_grained_error_type": [
+      "其他成分多余"
+    ],
+    "revised_sent": "我是一个常常偷懒的同学，在家里有时偷偷地去公园，有时偷看电视，也有时偷吃小吃，只会做少许功课，惹得爸爸妈妈怒火中烧，宛如火山爆发。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1319,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "有一天的下午，我放学后便偷偷地去公园玩耍，在公园看见一个人坐在公园里的滑梯，他身形高大，有大大的眼睛，高高的鼻梁，我看了大吃一惊，那不就是我的表哥 - 陈大文吗！",
+    "sc_sent": "有一天的下午，我放学后便偷偷地去公园玩耍，在公园看见一个人坐在公园里的滑梯，他身形高大，有大大的眼睛，高高的鼻梁，我看了大吃一惊，那不就是我的表哥 - 陈大文吗！",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "有一天下午，我放学后便偷偷地去公园玩耍，在公园看见一个人坐在公园里的滑梯上，他身形高大，有大大的眼睛，高高的鼻梁，我看了大吃一惊，那不就是我的表哥———陈大文吗！",
+    "remark": ""
+  },
+  {
+    "sent_id": 1320,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "我看他心情低落，便问他发生了什么。",
+    "sc_sent": "我看他心情低落，便问他发生了什么。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1321,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "原来他小时候和我一样常常偷懒，结果读到中学毕业，四年就要找工作了，因为他成绩不好，所以很难找到好的工作。",
+    "sc_sent": "原来他小时候和我一样常常偷懒，结果读到中学毕业，四年就要找工作了，因为他成绩不好，所以很难找到好的工作。",
+    "fine_grained_error_type": [
+      "其他成分残缺"
+    ],
+    "revised_sent": "原来他小时候和我一样常常偷懒，结果读到中学毕业，四年后就要找工作了，因为他成绩不好，所以很难找到好的工作。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1322,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "我也回想起之前发生的事。",
+    "sc_sent": "我也回想起之前发生的事。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1323,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "又一寸光阴一寸金，寸金难买寸光阴，时间过得很快，珍惜时间，努力学习才可以成为成功人士。",
+    "sc_sent": "又一寸光阴一寸金，寸金难买寸光阴，时间过得很快，珍惜时间，努力学习才可以成为成功人士。",
+    "fine_grained_error_type": [
+      "错用标点"
+    ],
+    "revised_sent": "又「一寸光阴一寸金，寸金难买寸光阴」，时间过得很快，珍惜时间，努力学习才可以成为成功人士。",
+    "remark": ""
+  },
+  {
+    "sent_id": 1324,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "听到这话后，我便立刻跑回家努力地做功课。",
+    "sc_sent": "听到这话后，我便立刻跑回家努力地做功课。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1325,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "这件事后，我便像表哥一样，我不再偷懒，常常在家里做功课，爸爸妈妈又惊叹又高兴。",
+    "sc_sent": "这件事后，我便像表哥一样，我不再偷懒，常常在家里做功课，爸爸妈妈又惊叹又高兴。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1326,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "今天，我在课室里上心地上课，我听到老师说：「少壮不努力，老大徒伤悲。」",
+    "sc_sent": "今天，我在课室里上心地上课，我听到老师说：「少壮不努力，老大徒伤悲。」",
+    "fine_grained_error_type": [
+      "缺字漏字"
+    ],
+    "revised_sent": "今天，我在课室里专心地上课，我听到老师说：「少壮不努力，老大徒伤悲。」",
+    "remark": ""
+  },
+  {
+    "sent_id": 1327,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "一听到这话，那次在公园玩耍的经历慢慢地浮现在我的眼前。",
+    "sc_sent": "一听到这话，那次在公园玩耍的经历慢慢地浮现在我的眼前。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1328,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "通过这件事，我深刻地明白珍惜时间努力学习的重要性。",
+    "sc_sent": "通过这件事，我深刻地明白珍惜时间努力学习的重要性。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1329,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "每一分每一秒的光阴都是珍贵的，不能再肆意挥霍。",
+    "sc_sent": "每一分每一秒的光阴都是珍贵的，不能再肆意挥霍。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1330,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "如果继续偷懒下去，就会像表哥一样，在未来的求职道路上遭遇重重困难。",
+    "sc_sent": "如果继续偷懒下去，就会像表哥一样，在未来的求职道路上遭遇重重困难。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1331,
+    "essay_id": 22,
+    "grade": 4,
+    "sent": "我很庆幸自己能及时醒悟，我会更加珍惜时间，努力完成功课，不辜负父母的期望，也为自己的未来打下良好的基础。",
+    "sc_sent": "我很庆幸自己能及时醒悟，我会更加珍惜时间，努力完成功课，不辜负父母的期望，也为自己的未来打下良好的基础。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1332,
+    "essay_id": 23,
+    "grade": 5,
+    "sent": "今天我和爸爸妈妈一起去太平山看风景，我感到很兴奋。",
+    "sc_sent": "今天我和爸爸妈妈一起去太平山看风景，我感到很兴奋。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1333,
+    "essay_id": 23,
+    "grade": 5,
+    "sent": "我们先坐巴士到中环，再坐山顶缆车上山，很快就到了山顶缆车总站——山顶凌霄阁。",
+    "sc_sent": "我们先坐巴士到中环，再坐山顶缆车上山，很快就到了山顶缆车总站——山顶凌霄阁。",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  },
+  {
+    "sent_id": 1334,
+    "essay_id": 23,
+    "grade": 5,
+    "sent": "我们到了凌霄阁最顶层的摩天台428，它在海拔四百二十八米的高度呢！",
+    "sc_sent": "我们到了凌霄阁最顶层的摩天台428，它在海拔四百二十八米的高度呢！",
+    "fine_grained_error_type": [
+      "无错误"
+    ],
+    "revised_sent": "",
+    "remark": ""
+  }
+]

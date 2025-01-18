@@ -9,25 +9,26 @@ from utils import read_json
 
 class LabelDict(object):
     def __init__(self, label_path):
-        self.schema_path = label_path
+        # self.schema_path = label_path
         self.label_path = label_path
         self.id2labels={}
         self.label2ids={}
-
         self.load_schema()
     
     def load_schema(self):
         self.label2ids = read_json(self.label_path)
         for idx, label in enumerate(self.label2ids):
             self.id2labels[idx] = label
+
     def __len__(self):
         return len(self.label2ids)
+
 
 class CorrectionDataProcessor(DataProcessor):
     def __init__(self, config, tokenizer=None):
         self.config = config
         self.train_path = config.train_path
-        self.dev_path = config.dev_path
+        self.val_path = config.val_path
         self.test_path = config.test_path
 
         self.tokenizer = BertTokenizerFast.from_pretrained(config.pretrained_path)
@@ -37,7 +38,7 @@ class CorrectionDataProcessor(DataProcessor):
         return read_json(self.train_path)
     
     def get_dev_data(self):
-        return read_json(self.dev_path)
+        return read_json(self.val_path)
     
     def get_test_data(self):
         return read_json(self.test_path)
@@ -55,7 +56,7 @@ class CorrectionDataProcessor(DataProcessor):
             sent_ids.append(int(d['sent_id']))
             text.append(d['sent'])
 
-            if 'FineGrainedErrorType' in d.keys() and (d['FineGrainedErrorType'] == ["正确"] or d['FineGrainedErrorType'] == []):
+            if 'fine_grained_error_type' in d.keys() and (d['fine_grained_error_type'] == ["正确"] or d['fine_grained_error_type'] == []):
                 tgt_text.append(d['sent'])
             else:
 
@@ -95,11 +96,11 @@ class CorrectionDataProcessor(DataProcessor):
 
         return dataloader
 
-class ClassifiyDataProcessor(DataProcessor):
+class ClassifyDataProcessor(DataProcessor):
     def __init__(self, config, tokenizer=None):
         self.config = config
         self.train_path = config.train_path
-        self.dev_path = config.dev_path
+        self.val_path = config.val_path
         self.test_path = config.test_path
 
         self.tokenizer = BertTokenizerFast.from_pretrained(config.pretrained_path)
@@ -109,7 +110,7 @@ class ClassifiyDataProcessor(DataProcessor):
         return read_json(self.train_path)
     
     def get_dev_data(self):
-        return read_json(self.dev_path)
+        return read_json(self.val_path)
     
     def get_test_data(self):
         return read_json(self.test_path)
@@ -126,7 +127,7 @@ class ClassifiyDataProcessor(DataProcessor):
                 text.append('\n'.join(d['text']))
                 label = self.label_schema.label2ids[d['essay_score_level']]
 
-            else:
+            else:   # coarse fine correction
                 if type(d['sent_id']) == list:
                     sent_ids.append(sum([int(i) for i in d['sent_id']]))
                 else:
@@ -135,9 +136,9 @@ class ClassifiyDataProcessor(DataProcessor):
                 text.append(d['sent'])
                 label = [0] * len(self.label_schema)
                 if self.config.task == 'coarse':
-                    key = 'CourseGrainedErrorType'
+                    key = 'coarse_grained_error_type'
                 else:
-                    key = 'FineGrainedErrorType'
+                    key = 'fine_grained_error_type'
 
                 for l in d[key]:
                     label[self.label_schema.label2ids[l]] = 1

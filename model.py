@@ -13,15 +13,18 @@ import pytorch_lightning as pl
 
 from utils import *
 from evaluation import MultiLabel_evaluate, bleu, levenshtein, bert_score, bert_ppl, cherrant, rewrite_eval, em_eval, New_multilabel_evaluate
-from data_process import ClassifiyDataProcessor, CorrectionDataProcessor
+from data_process import ClassifyDataProcessor, CorrectionDataProcessor
 
 
 class IdentificationModel(pl.LightningModule):
     def __init__(self, config):
         super(IdentificationModel, self).__init__()
 
+        self.train_loader = None
+        self.val_loader = None
         self.config = config
         self.save_hyperparameters()
+        self.validation_step_outputs = []
 
         self.batch_size = config.batch_size
         self.lr = config.lr
@@ -29,7 +32,7 @@ class IdentificationModel(pl.LightningModule):
         self.optimizer = config.optimizer
 
         self.tokenizer = BertTokenizer.from_pretrained(config.pretrained_path)
-        self.processor = ClassifiyDataProcessor(config, self.tokenizer)
+        self.processor = ClassifyDataProcessor(config, self.tokenizer)
 
         self.labels = len(self.processor.label_schema.id2labels)
         self.model = BertModel.from_pretrained(config.pretrained_path)
@@ -37,7 +40,7 @@ class IdentificationModel(pl.LightningModule):
             config.classifier_dropout if self.model.config.classifier_dropout is not None else self.model.config.hidden_dropout_prob
         )
         self.dropout = nn.Dropout(self.classifier_dropout)
-        self.classifier = nn.Linear(self.model.config.hidden_size, self.labels * 2)
+        self.classifier = nn.Linear(self.model.config.hidden_size, self.labels * 2)     # 二分类概率 是 否
 
         self.loss_fct = nn.CrossEntropyLoss()
 
@@ -50,7 +53,7 @@ class IdentificationModel(pl.LightningModule):
         return self.train_loader
 
     def val_dataloader(self):
-        return self.dev_loader
+        return self.val_loader
 
     def prepare_data(self):
         train_data = self.processor.get_train_data()
@@ -65,7 +68,8 @@ class IdentificationModel(pl.LightningModule):
         print("valid_length:", len(dev_data))
 
         self.train_loader = self.processor.create_dataloader(train_data, batch_size=self.batch_size, shuffle=True)
-        self.dev_loader = self.processor.create_dataloader(dev_data, batch_size=self.batch_size, shuffle=False)
+        self.val_loader = self.processor.create_dataloader(dev_data, batch_size=self.batch_size, shuffle=False)
+
 
     def forward(self, input_ids, token_type_ids=None, attention_mask=None, labels=None):
         features = self.model(
@@ -73,10 +77,10 @@ class IdentificationModel(pl.LightningModule):
             attention_mask=attention_mask,
             token_type_ids=token_type_ids
         )
-        pooled_output = features[1]
+        pooled_output = features[1]     # 0 last_hidden_state, 1 pooled_output
         pooled_output = self.dropout(pooled_output)
         logits = self.classifier(pooled_output)
-        return logits.reshape(logits.shape[0], -1, 2)
+        return logits.reshape(logits.shape[0], -1, 2)   # 2 每个标签的二分类输出
 
     def training_step(self, batch, batch_idx):
         inputs_ids, token_type_ids, attention_mask, labels, sent_ids = batch
@@ -100,27 +104,29 @@ class IdentificationModel(pl.LightningModule):
         loss = self.loss_fct(logits.reshape(-1, 2), labels.view(-1))
 
         gold = labels
-        pre = (F.softmax(logits, dim=-1)[:, :, -1] > 0.5).int()
+        # [:, :, -1]: 选取 softmax 输出的最后一列（即类别1的概率），假设这是一个二分类问题，最后一列对应类别 1 的概率。
+        predicts = (F.softmax(logits, dim=-1)[:, :, -1] > 0.5).int()
 
         self.gold_corpus.append(inputs_ids)
+        self.validation_step_outputs.append((loss.cpu(), gold.cpu(), predicts.cpu()))
+        return loss.cpu(), gold.cpu(), predicts.cpu()
 
-        return loss.cpu(), gold.cpu(), pre.cpu()
-
-    def validation_epoch_end(self, outputs):
-        val_loss, gold, pre = zip(*outputs)
+    # def validation_epoch_end(self, outputs):
+    def on_validation_epoch_end(self):
+        val_loss, gold, predicts = zip(*self.validation_step_outputs)
 
         val_loss = torch.stack(val_loss).mean()
         gold = torch.cat(gold)
-        pre = torch.cat(pre)
+        predicts = torch.cat(predicts)
 
-        macrof1, microf1 = New_multilabel_evaluate(pre, gold, verbose=True,
+        macrof1, microf1 = New_multilabel_evaluate(predicts, gold, verbose=True,
                                                    id2labels=self.processor.label_schema.id2labels,
                                                    error_only=self.config.error_only)
 
         true_seqs = [[self.processor.label_schema.id2labels[int(idx)] for idx in torch.nonzero(g).squeeze(1)] for g in
                      gold]
         pred_seqs = [[self.processor.label_schema.id2labels[int(idx)] for idx in torch.nonzero(p).squeeze(1)] for p in
-                     pre]
+                     predicts]
 
         print(f"pred seq len: {len(pred_seqs)}, gold seq len: {len(true_seqs)}")
 
@@ -282,7 +288,7 @@ class CorrectionModel(pl.LightningModule):
         char_f1, word_f1 = rewrite_eval(self.config, target_corpus, pred_corpus, sent_ids,
                                         save_path=os.path.join('./lightning_logs', self.config.version,
                                                                f"dev_epoch{self.current_epoch:02}.hyp.para"),
-                                        data_path=self.config.dev_path)
+                                        data_path=self.config.val_path)
 
         bleu_score = bleu(pred_corpus, target_corpus) * 100
         levenshtein_tgt = levenshtein(pred_corpus, target_corpus)
